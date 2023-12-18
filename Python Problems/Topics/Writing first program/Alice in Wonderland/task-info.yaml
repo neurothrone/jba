@@ -1,0 +1,15 @@
+type: code
+files:
+  - name: main.py
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6559#comment
+status: Solved
+feedback:
+  message: |-
+    <html>You've demonstrated an understanding of how to handle strings with apostrophes!
+
+    </html>
+  time: "Sun, 10 Dec 2023 20:19:56 UTC"
+record: -1
+submission_language: python3
